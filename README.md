@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently study at Generation Singapore - SGUP-CT CLOUD SUPPORT AND DEVOPS 
 - 👯 I’m looking to forward to become a DevOps and Cloud Engineer
-- 📫 How to reach me: [!MAIL](shizchaw95@gmail.com)
+- 📫 How to reach me: **shizchaw95@gmail.com**
 - ⚡ Fun fact: I love sport and like to play automation stuff
 
 ### Connect with me:
