@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Rick Poh 😄 
+## Hi there 👋, My name is Rick Poh 😄 
 
 ## I am a Mechanical Engineer and aim to become DevOps & Cloud Engineer 
 
