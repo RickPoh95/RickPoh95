@@ -2,7 +2,7 @@
 
 ## I am a Mechanical Engineer and aim to become DevOps & Cloud Engineer 
 
-- 🔭 I’m currently study at Generation Singapore - SGUP-CT CLOUD SUPPORT AND DEVOPS 
+- 🔭 I’m currently study at Generation Singapore - SGUP-CT CLOUD SUPPORT AND DEVOPS (3 month) + (6 month apprenticeship)
 - 👯 I’m looking to forward to become a DevOps and Cloud Engineer
 - 📫 How to reach me: **shizchaw95@gmail.com**
 - ⚡ Fun fact: I love sport and like thing related to automation 
